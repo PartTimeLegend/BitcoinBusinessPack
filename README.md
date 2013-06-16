@@ -9,6 +9,6 @@ Bitcoin does not operate like typical currencies: it has no central bank and it 
 Sponsors
 ========
 
-[![coinbase](https://coinbase.com/assets/logos/coinbase_logo_white.png)](https://coinbase.com/?r=5108694130b76cdbb2000047)]
+[![coinbase](https://coinbase.com/assets/logos/coinbase_logo_white.png)](https://coinbase.com/?r=5108694130b76cdbb2000047)
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/BitcoinBusinessPack&title=Bitcoin Business Pack&language=&tags=github&category=software) 
